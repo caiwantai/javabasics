@@ -2,6 +2,7 @@ package concurrentlearn;
 
 /**
  * 死锁
+ * 解决： 锁都是AB顺序
  */
 public class DeadLockDemo {
     private static  String A = "A";
